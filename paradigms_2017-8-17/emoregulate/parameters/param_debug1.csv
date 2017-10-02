@@ -1,0 +1,5 @@
+instructions_image,IAPS_image,ISIA,ISIB,stimClass,stimClassDesc
+instructions/attend.png,stimuli/0000.jpg,1,4,9,Attend_Neutral
+instructions/attend.png,stimuli/7184.jpg,1,4,9,Attend_Neutral
+instructions/reappriase.png,stimuli/1525.jpg,1,4,2,Reapp_ST
+instructions/attend.png,stimuli/9413.jpg,1,4,8,Attend_OT

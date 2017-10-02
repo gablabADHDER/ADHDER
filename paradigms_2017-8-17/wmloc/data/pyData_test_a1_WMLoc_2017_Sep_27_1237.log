@@ -1,0 +1,88 @@
+1.6082 	ERROR 	Requested audio device 'auto' that is not available on this hardware. The 'audioDevice' preference should be one of [u'Built-in Output']
+12.4838 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1131ec790>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.4838 	EXP 	window1: recordFrameIntervals = False
+12.6505 	EXP 	window1: recordFrameIntervals = True
+12.8343 	EXP 	window1: recordFrameIntervals = False
+12.9248 	EXP 	Created image_ready = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/ready.png', interpolate=True, mask=None, maskParams=None, name='image_ready', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+12.9608 	EXP 	Created image_fixation_scanner = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='image_fixation_scanner', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1035 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.1]), rgb=array([ 255.,  255.,  255.]), text=u'(scanner warming up)', units=u'norm', win=Window(...), wrapWidth=1)
+13.1421 	EXP 	Created fixation_prescan = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='fixation_prescan', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1759 	EXP 	Created image_fixation = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='image_fixation', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1786 	EXP 	Created trial_instructions_image1 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image1', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1826 	EXP 	Created trial_instructions_image2 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image2', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1864 	EXP 	Created trial_instructions_image3 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image3', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1893 	EXP 	Created trial_instructions_image4 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image4', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1922 	EXP 	Created trial_instructions_image5 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image5', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.1948 	EXP 	Created trial_instructions_image6 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='trial_instructions_image6', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.2283 	EXP 	Created begin6 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/begin6.png', interpolate=True, mask=None, maskParams=None, name='begin6', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.2640 	EXP 	Created begin5 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='instructions/begin5.png', interpolate=True, mask=None, maskParams=None, name='begin5', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.2979 	EXP 	Created begin4 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='instructions/begin4.png', interpolate=True, mask=None, maskParams=None, name='begin4', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.3334 	EXP 	Created begin3 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='instructions/begin3.png', interpolate=True, mask=None, maskParams=None, name='begin3', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.3683 	EXP 	Created begin2 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='instructions/begin2.png', interpolate=True, mask=None, maskParams=None, name='begin2', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.4067 	EXP 	Created begin1 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='instructions/begin1.png', interpolate=True, mask=None, maskParams=None, name='begin1', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.4469 	EXP 	Created fixation_image_pre = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='fixation_image_pre', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.4910 	EXP 	Created fixation_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='fixation_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.4935 	EXP 	Created target = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='target', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.5289 	EXP 	Created export_fixation = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='export_fixation', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.5674 	EXP 	Created final_fixation = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/fixation.png', interpolate=True, mask=None, maskParams=None, name='final_fixation', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+13.6021 	EXP 	Created end_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='instructions/end.png', interpolate=True, mask=None, maskParams=None, name='end_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1024.,   768.]), texRes=128, units='pix', win=Window(...))
+16.0074 	DATA 	Keypress: equal
+16.0341 	EXP 	image_ready: autoDraw = True
+16.6703 	DATA 	Keypress: 1
+16.6755 	EXP 	window1: blendMode = 'avg'
+16.6870 	EXP 	image_ready: autoDraw = False
+16.6870 	EXP 	image_fixation_scanner: autoDraw = True
+16.6870 	EXP 	text: autoDraw = True
+16.6886 	EXP 	window1: blendMode = 'avg'
+16.7027 	EXP 	window1: blendMode = 'avg'
+16.7194 	EXP 	window1: blendMode = 'avg'
+16.7365 	EXP 	window1: blendMode = 'avg'
+16.7547 	EXP 	window1: blendMode = 'avg'
+16.7693 	EXP 	window1: blendMode = 'avg'
+16.7864 	EXP 	window1: blendMode = 'avg'
+16.8033 	EXP 	window1: blendMode = 'avg'
+16.8196 	EXP 	window1: blendMode = 'avg'
+16.8365 	EXP 	window1: blendMode = 'avg'
+16.8534 	EXP 	window1: blendMode = 'avg'
+16.8697 	EXP 	window1: blendMode = 'avg'
+16.8865 	EXP 	window1: blendMode = 'avg'
+16.9032 	EXP 	window1: blendMode = 'avg'
+16.9198 	EXP 	window1: blendMode = 'avg'
+16.9367 	EXP 	window1: blendMode = 'avg'
+16.9526 	EXP 	window1: blendMode = 'avg'
+16.9685 	EXP 	window1: blendMode = 'avg'
+16.9851 	EXP 	window1: blendMode = 'avg'
+17.0027 	EXP 	window1: blendMode = 'avg'
+17.0184 	EXP 	window1: blendMode = 'avg'
+17.0370 	DATA 	Keypress: equal
+17.0508 	EXP 	image_fixation_scanner: autoDraw = False
+17.0508 	EXP 	text: autoDraw = False
+17.0508 	EXP 	fixation_prescan: autoDraw = True
+21.7911 	EXP 	Imported parameters/blocks_runAa.csv as conditions, 8 conditions, 6 params
+21.7922 	EXP 	Created sequence: sequential, trialTypes=8, nReps=1, seed=None
+21.7931 	EXP 	New trial (rep=0, index=0): {'instructions_image4': u'instructions/2back_instr4.png', 'instructions_image5': u'instructions/2back_instr5.png', 'stim_lists': u'parameters/stimlist_runA1.csv', 'instructions_image1': u'instructions/2back_instr1.png', 'instructions_image2': u'instructions/2back_instr2.png', 'instructions_image3': u'instructions/2back_instr3.png'}
+21.7936 	EXP 	window1: recordFrameIntervals = False
+21.8053 	EXP 	fixation_prescan: autoDraw = False
+21.8053 	EXP 	fixation_prescan: autoDraw = False
+21.8053 	EXP 	image_fixation: autoDraw = True
+26.5711 	EXP 	window1: recordFrameIntervals = False
+26.5711 	WARNING 	We overshot the intended duration of ITI_static by 0.7941s. The intervening code took too long to execute.
+26.5745 	DATA 	Keypress: equal
+26.5780 	DATA 	Keypress: 1
+26.6214 	EXP 	trial_instructions_image1: image = u'instructions/2back_instr1.png'
+26.6214 	EXP 	trial_instructions_image2: image = u'instructions/2back_instr2.png'
+26.6214 	EXP 	trial_instructions_image3: image = u'instructions/2back_instr3.png'
+26.6214 	EXP 	trial_instructions_image4: image = u'instructions/2back_instr4.png'
+26.6214 	EXP 	trial_instructions_image5: image = u'instructions/2back_instr5.png'
+26.6214 	EXP 	trial_instructions_image6: image = u'instructions/2back_instr5.png'
+26.6378 	EXP 	image_fixation: autoDraw = False
+26.6378 	EXP 	trial_instructions_image1: autoDraw = True
+26.6378 	EXP 	trial_instructions_image1: autoDraw = False
+26.6378 	EXP 	trial_instructions_image2: autoDraw = True
+26.8206 	EXP 	trial_instructions_image3: autoDraw = True
+26.8547 	EXP 	trial_instructions_image2: autoDraw = False
+27.3211 	EXP 	trial_instructions_image4: autoDraw = True
+27.3557 	EXP 	trial_instructions_image3: autoDraw = False
+27.8223 	EXP 	trial_instructions_image5: autoDraw = True
+28.1058 	EXP 	trial_instructions_image5: autoDraw = False
+28.3925 	DATA 	Keypress: escape

@@ -1,0 +1,3 @@
+instructions_image1,instructions_image2,instructions_image3,instructions_image4,instructions_image5,stim_lists
+instructions/2back_instr1.png,instructions/2back_instr2.png,instructions/2back_instr3.png,instructions/2back_instr4.png,instructions/2back_instr5.png,parameters/stimlist_demo1.csv
+instructions/0back_instr_R.png,instructions/0back_instr_R.png,instructions/0back_instr_R.png,instructions/0back_instr_R.png,instructions/0back_instr_R.png,parameters/stimlist_demo2.csv

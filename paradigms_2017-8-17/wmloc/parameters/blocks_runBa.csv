@@ -1,0 +1,9 @@
+instructions_image1,instructions_image2,instructions_image3,instructions_image4,instructions_image5,stim_lists
+instructions/2back_instr1.png,instructions/2back_instr2.png,instructions/2back_instr3.png,instructions/2back_instr4.png,instructions/2back_instr5.png,parameters/stimlist_runB1.csv
+instructions/0back_instr_B.png,instructions/0back_instr_B.png,instructions/0back_instr_B.png,instructions/0back_instr_B.png,instructions/0back_instr_B.png,parameters/stimlist_runB2.csv
+instructions/2back_instr1.png,instructions/2back_instr2.png,instructions/2back_instr3.png,instructions/2back_instr4.png,instructions/2back_instr5.png,parameters/stimlist_runB3.csv
+instructions/0back_instr_F.png,instructions/0back_instr_F.png,instructions/0back_instr_F.png,instructions/0back_instr_F.png,instructions/0back_instr_F.png,parameters/stimlist_runB4.csv
+instructions/2back_instr1.png,instructions/2back_instr2.png,instructions/2back_instr3.png,instructions/2back_instr4.png,instructions/2back_instr5.png,parameters/stimlist_runB5.csv
+instructions/0back_instr_J.png,instructions/0back_instr_J.png,instructions/0back_instr_J.png,instructions/0back_instr_J.png,instructions/0back_instr_J.png,parameters/stimlist_runB6.csv
+instructions/2back_instr1.png,instructions/2back_instr2.png,instructions/2back_instr3.png,instructions/2back_instr4.png,instructions/2back_instr5.png,parameters/stimlist_runB7.csv
+instructions/0back_instr_M.png,instructions/0back_instr_M.png,instructions/0back_instr_M.png,instructions/0back_instr_M.png,instructions/0back_instr_M.png,parameters/stimlist_runB8.csv
